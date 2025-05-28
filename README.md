@@ -77,7 +77,7 @@ El número de cartas iniciales en repartirCartasIniciales()
 # Capturas de Pantalla
 ![Captura de pantalla 2025-05-28 164349](https://github.com/user-attachments/assets/6a7697ec-d70b-4c36-8049-faac95f57759)
 ![Captura de pantalla 2025-05-28 165212](https://github.com/user-attachments/assets/28a0633c-207d-4f6b-91c7-787b7de696fe)
-![Captura de pantalla 2025-05-28 165334](https://github.com/user-attachments/assets/fe5f329a-922a-472d-a1b8-0cf68395569d)
+![Captura de pantalla 2025-05-28 165334](https://github.com/user-attachments/assets/ae2def8e-9d4d-47f6-99ea-958603dd766e)
 ![Captura de pantalla 2025-05-27 173306](https://github.com/user-attachments/assets/5b7cad92-8bd5-4b31-a6f2-36893a66747b)
 
 
