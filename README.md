@@ -1,10 +1,10 @@
-#README - Juego de Trenes (Ticket to Ride Clone)
+# README - Juego de Trenes (Ticket to Ride Clone)
 Juego de Trenes <!-- Puedes reemplazar esto con una imagen real de tu juego -->
 
-#Descripción
+# Descripción
 Este es un clon simplificado del popular juego de mesa "Ticket to Ride" implementado en C++. El objetivo del juego es conectar ciudades construyendo rutas de trenes usando cartas de colores, acumulando puntos por cada ruta completada.
 
-#Características Principales
+# Características Principales
 ✅ Tablero visual con 14×18 celdas
 
 ✅ Sistema de colores ANSI para mejor visualización
@@ -17,7 +17,7 @@ Este es un clon simplificado del popular juego de mesa "Ticket to Ride" implemen
 
 ✅ Sistema de cartas y turnos
 
-#Requisitos del Sistema
+# Requisitos del Sistema
 Compilador de C++ compatible con C++11 (g++, clang, MSVC)
 
 Terminal que soporte colores ANSI (en Windows 10+ funciona nativamente)
@@ -26,7 +26,7 @@ Linux/macOS: Funciona en terminales estándar
 
 Windows: Requiere Windows 10+ para colores ANSI
 
-#Instalación y Ejecución
+# Instalación y Ejecución
 Clona el repositorio:
 
 bash
@@ -60,7 +60,7 @@ Para robar cartas, ingresa dos índices (ej. 0 2)
 
 Para construir rutas, ingresa dos ciudades (ej. A D)
 
-#Estructura del Código
+# Estructura del Código
 juego-trenes/
 ├── main.cpp          # Código fuente principal
 ├── README.md         # Este archivo
@@ -74,14 +74,14 @@ Los colores disponibles en el enum Color
 
 El número de cartas iniciales en repartirCartasIniciales()
 
-#Capturas de Pantalla
+# Capturas de Pantalla
 ![Captura de pantalla 2025-05-28 164349](https://github.com/user-attachments/assets/6a7697ec-d70b-4c36-8049-faac95f57759)
 ![Captura de pantalla 2025-05-28 165212](https://github.com/user-attachments/assets/28a0633c-207d-4f6b-91c7-787b7de696fe)
 ![Captura de pantalla 2025-05-28 165334](https://github.com/user-attachments/assets/fe5f329a-922a-472d-a1b8-0cf68395569d)
 ![Captura de pantalla 2025-05-27 173306](https://github.com/user-attachments/assets/5b7cad92-8bd5-4b31-a6f2-36893a66747b)
 
 
-Contribuciones
+# Contribuciones
 Las contribuciones son bienvenidas. Por favor abre un issue o envía un pull request para:
 
 Reportar bugs
@@ -90,7 +90,7 @@ Sugerir mejoras
 
 Agregar nuevas características
 
-Licencia
+# Licencia
 Este proyecto está bajo la licencia MIT. Ver el archivo LICENSE para más detalles.
 
 ¡Diviértete construyendo rutas y convirtiéndote en el magnate de los trenes! 🚂
