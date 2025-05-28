@@ -94,3 +94,6 @@ Agregar nuevas características
 Este proyecto está bajo la licencia MIT. Ver el archivo LICENSE para más detalles.
 
 ¡Diviértete construyendo rutas y convirtiéndote en el magnate de los trenes! 🚂
+
+# Diagrama UML
+![DiagramaUML](https://github.com/user-attachments/assets/a6b07614-9712-466a-a7c0-74219f0e98be)
