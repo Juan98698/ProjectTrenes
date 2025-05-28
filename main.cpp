@@ -114,7 +114,7 @@ private:
         }
     }
         
-        // Posiciones de las ciudades (ajustar según tu tablero)
+        // Posiciones de las ciudades 
         tablero[7][0] = 'A'; coloresTablero[7][0] = Color::NEGRO;
         tablero[4][2] = 'B'; coloresTablero[4][2] = Color::NEGRO;
         tablero[3][5] = 'E'; coloresTablero[3][5] = Color::NEGRO;
@@ -139,7 +139,6 @@ private:
     }
 
     void inicializarTrayectos() {
-        // Ejemplo de trayectos (debes completar con todos los trayectos de tu tablero)
         
         // Trayecto A-B (4 rojas)
         Trayecto t1;
