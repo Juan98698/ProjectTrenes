@@ -1,4 +1,4 @@
-# README - Juego de Trenes (Ticket to Ride Clone)
+#  Juego de Trenes (Ticket to Ride Clone)
 Juego de Trenes <!-- Puedes reemplazar esto con una imagen real de tu juego -->
 
 # Descripción
